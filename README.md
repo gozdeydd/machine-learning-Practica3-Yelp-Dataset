@@ -1,1 +1,1 @@
-# gozdeydd-machine-learning-Practica3-Yelp-Dataset
+# machine-learning-practica3-yelp-dataset

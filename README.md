@@ -1,7 +1,9 @@
 # machine-learning-practica3-yelp-dataset
+
 This repository is prepared by Gozde Yazganoglu 
 
 git@github.com:gozdeydd/machine-learning-Practica3-Yelp-Dataset.git
+
 gozde.yazganoglu@cunef.edu
 
 
@@ -18,11 +20,11 @@ I am trying to understand which restaurants are likely to receive a rating equal
 
 In this project it was for me for the first time to process this much large size data in json format. I have learned how to handle. And first time trying to understand geoespatial data. I also try to understand networks nodes and edges 
 
-    How to Install and Run the Project?
+    3. How to Install and Run the Project?
 
 I have used python version 3.10. Environment details will be found and requirements file in env folder.
 
-    How to use the Project?
+    4. How to use the Project?
 
 This is a data analisis project. You can consult to our code for your own projects on different other topics. In addition, if you would like to contribute to this particular project, you can make a pull request to improve our analisis. I am beginners, we are open to all suggestions. We also would like to help all beginners like us. Please do not hesitate to contact if you want to ask anything.
 
@@ -31,7 +33,7 @@ gozde.yazganoglu@cunef.edu
 
 My plan is to update in future with some other type of analisis. 
 
-Content of the Files:
+    5. Content of the Files:
 
 data:
     Raw: Geodata downloded from 
@@ -44,7 +46,7 @@ notebooks: Notebooks of the project.
 
 env : enviroment requirements to be downloaded.
 
-Roadmap to Follow:
+   6. Roadmap to Follow:
 
 Notebook 0 is optional because it is also possible to open the file in the operationsystem.
 Notebook 1 is processing data, if you would like to, you can use directly from pickle file as well. Other notebooks work without this step.
@@ -59,7 +61,7 @@ Notebook 1 is processing data, if you would like to, you can use directly from p
 
 4_geoespacial_analisis_of_restaurants.ipynb
 
-    License
+    7. License
 
 Our work is under open license. For more information please check below link.
 

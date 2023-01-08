@@ -63,6 +63,6 @@ Notebook 1 is processing data, if you would like to, you can use directly from p
 
     7. License
 
-Our work is under open license. For more information please check below link.
+My work is under open license. For more information please check below link.
 
 https://opendefinition.org/od/2.1/en/
